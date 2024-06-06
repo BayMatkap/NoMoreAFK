@@ -11,7 +11,7 @@ NoMoreAFK is a utility software designed to prevent AFK (Away From Keyboard) ban
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/NoMoreAFK/releases) page.
+1. Download the latest release from the [Releases]([https://github.com/yourusername/NoMoreAFK/releases](https://github.com/BayMatkap/NoMoreAFK/releases/tag/NoMoreAFK)) page.
 2. Put files in the same folder.
 3. Run `NoMoreAFK.exe`.
 
